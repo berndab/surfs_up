@@ -28,5 +28,12 @@ In order to determine the feasability of opening an "Surf and Shake" shop on the
 <img src="https://github.com/berndab/surfs_up/blob/master/december_daily_temp_all_years_boxplot.png" />
 
 ## Analysis of Seasonal Weather Variations
+From the statistical temperature data generated for the months of June and December, both month appear to have similar temperature characteristics. The difference in mean temperture between June and December is 3.9 degrees. The difference in the maximun temperature for June and Decemner is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal difference between June and December temperature is about 3 degrees for the majority of the statisitcal weather values. However, there is more significant differences in the first quartiles of temperatures between June and December. The difference in the minimun temperature for June and December is 6 degrees with the minimun temperature for December being 56 degrees. In addition there are more outlires with lower temperature values for December that for June. Looking a the temperature line chart for December, these ourlires apprear to come in the last week of December which should be expected due to the fact that daily temperatures for the northern hemisphere reach there lowest point during this time frame. 
 
-The mean average temperator difference between June and December is only 
+
+
+
+More temperature reading per day
+tempature readed specific for each location
+Wave conditions
+Water temperature
