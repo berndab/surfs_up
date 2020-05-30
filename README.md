@@ -38,11 +38,13 @@ However, the Bottom quartile daily temperatures data for June and December show 
 
 The data shows that the major sesonal variation of temperature data for June and December occurs within the bottom quartile of daily temperatures for these months. December has on average has more days with marginal temperatures for beach going. 
 
+## Impact of Seasonal Weather Variation on the "Surf and Shake" Shop Business
+
 There are four types of customers that the "Surf and Shake" shack would attract
-•	Local island beach goers who purchase ice cream and shakes
-•	Local island surfers who purchase surfing equipment and supplies
-•	Beach going tourist who purchase ice cream and shakes
-•	Beach going surfers who purchase surfing equipment and supplies
+* Local island beach goers who purchase ice cream and shakes
+* Local island surfers who purchase surfing equipment and supplies
+* Beach going tourist who purchase ice cream and shakes
+* Beach going surfers who purchase surfing equipment and supplies
 
 The “Surf and Shake” show would see a decrease in the number of the local island beach goer customer types and a decrease in the sales volume for ice cream and shakes purchased by this customer type in December. Due to the higher number of low temperature outliers in December, December has less days where the temperature is in the preferred temperature range of local beach goers. Local beach goer will choose to wait for those days where the temperature is not an outlier and preferable for spending a day at the beach.
 
@@ -53,12 +55,21 @@ The “Surf and Shake” shop would not see a decrease in the number of the loca
 The “Surf and Shake” shop would see a decrease in the in the number of the surfing tourist customer type and a decrease in sales volume for surf equipment and supplies purchased in December. Even surfing tourist's decision to go surfing is more influence by wave condition than temperature and they usually have wet suits to use when during lower temperature days. However, surfing tourist have a choice of when to come to Oahu to surf and significantly less surfing tourist would choose to come to Oahu in December with it higher number of low temperature outlier days. they would choose to come during months like June when there is more consistent daily temperatures 
 
 
+## Further Analysis
 
-More temperature reading per day
+### Hourly Temperatue Reading Per Day
+Currently the temperature data set only has one temperature obervation per day per station and the temperture observation only had date information and not time of day information. Typically surfing and beach going activity occurs between 9am and 4pm. Local and tourest beach goers, and tourest surfers make decision to choose to go to the beach based on the temperature at those time of the day. Having hourly temperature date would enhance the ability to predict the affect of seasonal weather variation on the "Surf and Shake" shop sales and customer types. This would be particularly helpful when analizing the impact of low temperature ouliers in December on sales and customer type becasue time of day these lower temperatures occured would be known. It may be that the lowest temperature for December is 56 degrees but that temperature observation may have occured at 6am which would make it much less useful in predicting beach going and surfing activity. 
 
-tempature readed specific for each location
+### Analized Sesonal Temperature Variations at the Station Level
 
+There may be sigificant differences in seasonal variation of tempertures at different weather stations. Weather on Oahu varies significantly due to the trade winds and their interaction with Oahu's montains. The weather on Oahu's south and west shore is usually drier and sunnier than on the island's east shore. That's because the predominant tradewinds are blowing from the northeast about 90% of the time they get stuck on the mountains. The weather on Oahu's east shore is therefore usually a lot wetter and colder than on the west shore. Looking at seasonal weather variation for the island as a whole may be the correct granularity to analize this seasonal weather variation due to the significant differences in typical weather patterns depending on what side to the Oahu's montain the the weather station is on. 
+
+A specific location must be chosen for location the "Surf and Shake" shop. The local seasonal weather variation may be significantly differend depending on which side of Oahu's montain the shop is located. Out current general analysis of the seasonal weather variation 
+on Oahu may be significantly different the the seasonal variation for each local weather station. Out current variation data is ased on the assumption that this if the variation the shop would be subject to no matter where it is located on Oahu. This may be a incorrect assumption. 
 Wave conditions
 
-Water temperature
+### Analized Seasonal Variation in Ocean Water temperature
+Beach going is not just influence by air temperature. It is also influence by water temperature. Included analysis of the seasonal variation of Oahu water tempertature would make our predicions of seasonal variation on the sales volume for ice cream and shakes from beach goer more accurate.
 
+### Analizing Seasonal Variations on Wave Conditions
+The local sufer follow the waves with almost no consideration for the air temperature. Seasonal varation in temperature is not sifnificantly useful in predicting the sales volume of surfing equipment and supplies purchaes by the local surfer customer type. Analizing the seasonal variation of wave conditions, would enable a much more accurate prediction of the exprected demand for surfing equipment and supplies from the local surfing population.
