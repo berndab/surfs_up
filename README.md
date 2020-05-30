@@ -1,8 +1,11 @@
 # Surfs Up
 
-## Description
+## Purpose
 
-In order to determine the feasability of opening an "Surf and Shake" shop on the island of Ohau, Hawaii, this project geneates statistical data for Ohau daily multi-year temperature data for June and December. This statistical data is used to to analize and predict how the seasonal temperature variation could affect the "Surf and Shake" shop's sales volume and to determine if the type of customer  would vary with the the seasonal temperature variation. 
+The purpose of this project is determine how a proposed “Surf and Shake” shop business on the island of Oahu, Hawaii would be affected by sessional weather variations on the island. The goal is to determine how seasonal temperature variations on the island would affect the shop’s sales volume and how it would change the customer type that the shop would serve during different seasons 
+## Methodology
+The project uses a data set that consists of multiyear daily temperature reading from 9 weather stations the island of Oahu. The project generated statistical measures for multiyear daily temperature measures for June and December and compares these statistical measures to determine the sessional variation of these measure. 
+This seasonal temperature variation data is used to predict how sales volume and customer type would be change based to the seasonal temperature variation. 
 
 ## Weather Data June and December Ohau, Hawaii
 
@@ -17,23 +20,30 @@ In order to determine the feasability of opening an "Surf and Shake" shop on the
 | 75%           |77.00  |74.00   |
 | Max           |85.00  |83.00   |
 
-|   Ohau Weather Station Information  |   |
-|-------------------------------------|---|
-| Number of Ohau Weather Stations     | 9 |
-| Daily Number of Temp Observation    | 1 |
+|        Oahu Weather Station Information        |   |
+|------------------------------------------------|---|
+| Number of Oahu Weather Stations                | 9 |
+| Daily Number of Temp Observation per Station   | 1 |
 
 <img src="https://github.com/berndab/surfs_up/blob/master/june_avg_daily_temp_all_years.png" />
-<img src="https://github.com/berndab/surfs_up/blob/master/june_daily_temp_all_years_boxplot.png" />
 <img src="https://github.com/berndab/surfs_up/blob/master/december_avg_daily_temp_all_years.png" />
+<img src="https://github.com/berndab/surfs_up/blob/master/june_daily_temp_all_years_boxplot.png" />
 <img src="https://github.com/berndab/surfs_up/blob/master/december_daily_temp_all_years_boxplot.png" />
 
 ## Analysis of Seasonal Weather Variations
-From the statistical temperature data generated for the months of June and December, both month appear to have similar temperature characteristics. The difference in mean temperture between June and December is 3.9 degrees. The difference in the maximun temperature for June and Decemner is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal difference between June and December temperature is about 3 degrees for the majority of the statisitcal weather values. However, there is more significant differences in the first quartiles of temperatures between June and December. The difference in the minimun temperature for June and December is 6 degrees with the minimun temperature for December being 56 degrees. In addition there are more outlires with lower temperature values for December that for June. Looking a the temperature line chart for December, these ourlires apprear to come in the last week of December which should be expected due to the fact that daily temperatures for the northern hemisphere reach there lowest point during this time frame. 
+
+From the statistical temperature measure for June and December, there appears to be only a slight variance in the majority of the statistical temperature values. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference for June and December is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal temperature variation from June and December temperature is expressed by a 3 degrees difference for the majority of the statistical weather measures. 
+However, first quartile temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference for June and December is 6 degrees which is twice the t difference in the maximum temperature for June and December. In addition, the minimum temperature for December is 56 degrees is significantly lower than the preferred beach going temperature. also December has more outlier temperatures at the low end of the temperature scale meaning more days in December with daily temperatures below the preferred beach going temperatures. The  declining average temperature displayed on the December temperature chart indicates that these increased temperature outliers occur during last week of December. This should be expected since daily temperatures for the northern hemisphere reach their lowest values during this time frame. 
+
 
 
 
 
 More temperature reading per day
+
 tempature readed specific for each location
+
 Wave conditions
+
 Water temperature
+
