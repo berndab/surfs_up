@@ -1,10 +1,10 @@
 # Surfs Up
 
-# Description
+## Description
 
 In order to determine the feasability of opening an "Surf and Shake" shop on the island of Ohau, Hawaii, this project analizes daily multi-year temperature data for June and December to determing the seasonal temperature variation for the island. This data is used to analize  and predict how the seasonal temperature variation could affect the sales volume of the busness and to determine if the type of customer that would frequent the busines would vary with the the seasonal temperature variation. 
 
-## Average Tempeture Results 
+## Weather Data June and December
 
 |      |  June |December|
 |------|-------|--------|
