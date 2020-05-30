@@ -32,8 +32,24 @@ This seasonal temperature variation data is used to predict how sales volume and
 
 ## Analysis of Seasonal Weather Variations
 
-From the statistical temperature measure for June and December, there appears to be only a slight variance in the majority of the statistical temperature values. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference for June and December is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal temperature variation from June and December temperature is expressed by a 3 degrees difference for the majority of the statistical weather measures. 
-However, first quartile temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference for June and December is 6 degrees which is twice the t difference in the maximum temperature for June and December. In addition, the minimum temperature for December is 56 degrees is significantly lower than the preferred beach going temperature. also December has more outlier temperatures at the low end of the temperature scale meaning more days in December with daily temperatures below the preferred beach going temperatures. The  declining average temperature displayed on the December temperature chart indicates that these increased temperature outliers occur during last week of December. This should be expected since daily temperatures for the northern hemisphere reach their lowest values during this time frame. 
+From the statistical temperature measure for June and December, there appears to be only a slight variance in the majority of the statistical temperature values. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference for June and December is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal temperature variation from June and December temperature is expressed by a 3 degrees difference for the majority of the statistical weather measures.
+
+However, the Bottom quartile daily temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference for June and December is 6 degrees which is twice the difference in the maximum temperature for June and December. In addition, the minimum temperature for December is 56 degrees is significantly lower than the preferred beach going temperature. Also, December has more outlier temperatures at the low end of the temperature scale and these additional outlier temperatures are below 60 degrees. This mean that December has more days with temperatures below the preferred beach going temperature. This increase in low temperature outlires is futher represented by the declining average temperature displayed on the December temperature chart during last week of December. This should be expected, since daily temperatures for the northern hemisphere reach their lowest values during this time frame.
+
+The data shows that the major sesonal variation of temperature data for June and December occurs within the bottom quartile of daily temperatures for these months. December has on average has more days with marginal temperatures for beach going. 
+
+## Analysis of Seasonal Temperature Variation on "Surf and Shake" Business
+
+The "Surf and Shake" shop customer types
+There are four types of customers that the "Surf and Shake" shack would attract
+
+* Local island daily beach goers who purchase icecream and shakes
+* Local island surfers who purchase surfing equipment and supplies
+* Tourist daily beach goers who purchase ice cream and shakes
+* Tourist surfers who purchase surfing equipment and supplies
+
+Due to the increase in the number of days with low temperature ourline values in December particularly in the last week. The "Surf and Shake" shop would experience a decrease in sales of ice cream and shakes during the month of December. Local beach goers would would likely only go to the beach when daily temperatures are 70. With 25% of the daily temperatures for December 69 and below 
+
 
 
 
