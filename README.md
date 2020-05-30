@@ -38,21 +38,19 @@ However, the Bottom quartile daily temperatures data for June and December show 
 
 The data shows that the major sesonal variation of temperature data for June and December occurs within the bottom quartile of daily temperatures for these months. December has on average has more days with marginal temperatures for beach going. 
 
-## Analysis of Seasonal Temperature Variation on "Surf and Shake" Business
-
-The "Surf and Shake" shop customer types
 There are four types of customers that the "Surf and Shake" shack would attract
+•	Local island beach goers who purchase ice cream and shakes
+•	Local island surfers who purchase surfing equipment and supplies
+•	Beach going tourist who purchase ice cream and shakes
+•	Beach going surfers who purchase surfing equipment and supplies
 
-* Local island daily beach goers who purchase icecream and shakes
-* Local island surfers who purchase surfing equipment and supplies
-* Tourist daily beach goers who purchase ice cream and shakes
-* Tourist surfers who purchase surfing equipment and supplies
+The “Surf and Shake” show would see a decrease in the number of the local island beach goer customer types and a decrease in the sales volume for ice cream and shakes purchased by this customer type in December. Due to the higher number of low temperature outliers in December, December has less days where the temperature is in the preferred temperature range of local beach goers. Local beach goer will choose to wait for those days where the temperature is not an outlier and preferable for spending a day at the beach.
 
-Due to the higher number of days with low temperature ourlire values below 60 degrees in December, the "Surf and Shake" shop would experience a decrease in ice cream and shakes sales during the month of December. Local beach goers who purchase ice cream and shake would frequent the beach less in December due to the increase in outlire daily temperatures below the perfered beach going value. Also, beach going tourest who purchase ice cream and shakes would decline particularly in the last December last week of June due to the higher frequence temperatures during this week.
+The “Surf and Shake” shop would also see a decrease in the number of the beach going tourist customer type and a decrease in sales volume for ice cream and shakes purchased by this customer type in December. Beach going tourists can choose when to come to Oahu for beach going. Due to the higher number of low temperature outliers particularly in the last week of December, beach going tourist would choose to come when the chances that the daily temperatures are favorable for beach going is much higher. 
 
-For local surferes, there should be no decrease in the sales volume of surf equipment and supplies in December due to seasonal weather variations that cause more low temperature days in December. This is because the typically local surfer are motivated and prepared to surf year round. A local surfer's decision to go surfing is more influenced by wave conditions than the temperature. Generally, as long as wave conditions are favorable for surfing, local surfer will go surfing and will have wetsuits to stay warm on lower temperature days
+The “Surf and Shake” shop would not see a decrease in the number of the local surfer customer type and not see a decrease in sales volume of surfing equipment and supplies purchased by the local surfer customer type in December. Even though December has a higher number of low temperature outlier days this does not affect the frequency of days the local surfer customer type chooses to surf. Local surfer are motivated and prepared to surf year round and are more influenced by wave conditions than the temperature when making the choice to go surfing on a particular day. Generally, as long as wave conditions are favorable for surfing, local surfer will go surfing and will use wetsuits to stay warm on lower temperature days.
 
-For surfing turest, The would be a slight decrease in the sales volume for surf equipment and supplies in December. Again even non-local tourist's decision to go surfing is more influence by wave condition than temperature. However, surfing tourest choose to when to come to Oahu to surf and more torist surfers would choose to come to surf in June than December do to the fact that if the turest surfer has a choice then the surfer would more often choose to come during the month with the more consistent favorable weather condition to surf without needing a wet suit to keep warm. 
+The “Surf and Shake” shop would see a decrease in the in the number of the surfing tourist customer type and a decrease in sales volume for surf equipment and supplies purchased in December. Even surfing tourist's decision to go surfing is more influence by wave condition than temperature and they usually have wet suits to use when during lower temperature days. However, surfing tourist have a choice of when to come to Oahu to surf and significantly less surfing tourist would choose to come to Oahu in December with it higher number of low temperature outlier days. they would choose to come during months like June when there is more consistent daily temperatures 
 
 
 
