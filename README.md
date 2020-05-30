@@ -25,4 +25,8 @@ In order to determine the feasability of opening an "Surf and Shake" shop on the
 <img src="https://github.com/berndab/surfs_up/blob/master/june_avg_daily_temp_all_years.png" />
 <img src="https://github.com/berndab/surfs_up/blob/master/june_daily_temp_all_years_boxplot.png" />
 <img src="https://github.com/berndab/surfs_up/blob/master/december_avg_daily_temp_all_years.png" />
-<img src="https://github.com/berndab/surfs_up/blob/master/june_daily_temp_all_years_boxplot.png" />
+<img src="https://github.com/berndab/surfs_up/blob/master/december_daily_temp_all_years_boxplot.png" />
+
+## Analysis of Seasonal Weather Variations
+
+The mean average temperator difference between June and December is only 
