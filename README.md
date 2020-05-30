@@ -48,10 +48,11 @@ There are four types of customers that the "Surf and Shake" shack would attract
 * Tourist daily beach goers who purchase ice cream and shakes
 * Tourist surfers who purchase surfing equipment and supplies
 
-Due to the increase in the number of days with low temperature ourline values in December particularly in the last week. The "Surf and Shake" shop would experience a decrease in sales of ice cream and shakes during the month of December. Local beach goers would would likely only go to the beach when daily temperatures are 70. With 25% of the daily temperatures for December 69 and below 
+Due to the higher number of days with low temperature ourlire values below 60 degrees in December, the "Surf and Shake" shop would experience a decrease in ice cream and shakes sales during the month of December. Local beach goers who purchase ice cream and shake would frequent the beach less in December due to the increase in outlire daily temperatures below the perfered beach going value. Also, beach going tourest who purchase ice cream and shakes would decline particularly in the last December last week of June due to the higher frequence temperatures during this week.
 
+For local surferes, there should be no decrease in the sales volume of surf equipment and supplies in December due to seasonal weather variations that cause more low temperature days in December. This is because the typically local surfer are motivated and prepared to surf year round. A local surfer's decision to go surfing is more influenced by wave conditions than the temperature. Generally, as long as wave conditions are favorable for surfing, local surfer will go surfing and will have wetsuits to stay warm on lower temperature days
 
-
+For surfing turest, The would be a slight decrease in the sales volume for surf equipment and supplies in December. Again even non-local tourist's decision to go surfing is more influence by wave condition than temperature. However, surfing tourest choose to when to come to Oahu to surf and more torist surfers would choose to come to surf in June than December do to the fact that if the turest surfer has a choice then the surfer would more often choose to come during the month with the more consistent favorable weather condition to surf without needing a wet suit to keep warm. 
 
 
 
