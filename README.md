@@ -2,15 +2,14 @@
 
 ## Purpose
 
-The purpose of this project is determine how a proposed “Surf and Shake” shop business on the island of Oahu, Hawaii would be affected by sessional weather variations on the island. The goal is to determine how seasonal temperature variations on the island would affect the shop’s sales volume and customer types the shop served.
+The purpose of this project is to determine how seasonal daily temperature variations will affect the sales volume and customer type of a proposed “Surf and Shake” shop business on the island of Oahu, Hawaii. 
 
 ## Methodology
 
-The project uses a data set that consists of multiyear daily temperature reading from 9 weather stations the island of Oahu. The project generated standard statistical values using multiyear daily temperature observations for June and December. Then these statistical values for June and December are compared to determine the sessional variation in these values.
+The project uses the historical daily temperature observations from the 9 weather stations on the island of Oahu to determine the seasonal variation of the daily temperature on the island. The project performs a statistical analysis on the historical daily temperature observations for June and December the compares the statistical measures generated for these month to define the seasonal variation of the daily temperature on the island. 
+This seasonal temperature variation data is then used to predict how this seasonal variation would influence the "Surf and Shake" shop’s sales volume and the customer types that would frequent the shop
 
-This seasonal temperature variation data is then used to predict how the "Surf and Shake" shop sales volume and customer type would be caffected  based to these seasonal variation. 
-
-## Weather Data June and December Ohau, Hawaii
+## Weather Data June and December Oahu, Hawaii
 
 |   Value Type  |  June |December|
 |---------------|-------|--------|
@@ -35,49 +34,47 @@ This seasonal temperature variation data is then used to predict how the "Surf a
 
 ## Analysis of Seasonal Weather Variations
 
-The comparison of statistical temperature measure for June and December, show only a slight variance in the majority of the statistical temperature measures. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference between June and December is 3 degrees. 75% of the temperatures for June are 73 degrees and above while 75% of the temperatures for December are 69 degrees and above. For most of the statistical temperature measures for June and December, the seasonal variation of these mesures is 3 - 4 degrees.
+The comparison of statistical temperature measure for June and December, show only a slight variance in most of the the statistical temperature measures. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference between June and December is 3 degrees. 75% of the temperatures for June are 73 degrees and above while 75% of the temperatures for December are 69 degrees and above. For most of the statistical temperature measures for June and December, the seasonal variation of their values is 3 - 4 degrees.
 
-However, the bottom quartile of average daily temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference between June and December is 6 degrees which is twice the maximum temperature difference for these two months. In addition, December's minumun temperature of 56 degrees is significantly lower than the preferred beach going temperature value. December has more outlier temperatures at the low end of the temperature scale that are below 60 degrees which caused December to have more days with temperatures below the preferred beach going temperature. the December average temperature graph show that the days with the outlier temperatures at the low end of the scale tend to occure during last week of December.
+However, the bottom quartile of daily temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference between June and December is 6 degrees which is twice the difference between the maximum temperature for these two months. In addition, December's minimum temperature of 56 degrees is significantly lower than beach goers’ preferred beach going temperature. December has more days with temperatures below this preferred beach going temperature since it has a significant amount of outlier temperatures below 60 degrees. The December graph of average daily temperature show that these outlier temperatures tend to occur during last week of December.
 
-The analysis of June and December temperature data indicates that the significant seasonal variation between June and December is the increase in the number of days in December where the a daily average temperature is below the perfered temperature for beach going.  
+The data shows that the significant seasonal weather variation between June and December is that December has a significant number of day where with temperatures below the preferred temperature for beach going.  
 
 ## Impact of Seasonal Weather Variation on the "Surf and Shake" Shop Business
 
 There are four types of customers that the proposed "Surf and Shake" shack would serve
-* Local island beach goers who purchase ice cream and shakes
+* Local island beach goer who purchase ice cream and shakes
 * Local island surfers who purchase surfing equipment and supplies
 * Tourist beach goers who purchase ice cream and shakes
-* Tourest surfers who purchase surfing equipment and supplies
+* Tourist surfers who purchase surfing equipment and supplies
 
-Give the the major seasonal variation between June to December is the increase in the number of day in December where the temperature is below the peferrd beach going temperature value the folowing conclusions can be made about the seasonal variation in the sales volume of and the customer type frequence for "Surf and Shake" shop/
+The major seasonal weather variation between June to December is the increase in the number of days in December where the temperature is below the preferred beach going temperature. Based on this, the following conclusions can be made about how Surf and Shake" shop’s sales volume and customer type frequency would change do to this seasonal variation characteristic.
 
-The “Surf and Shake” shop would see a decrease in the number of the local island beach goer customer types and a decrease in the sales volume for ice cream and shakes purchased by this customer type in December due to the increased number of days where the temperature is below the local beach goer's prefered temperature to decicde to go to the beach. Local beach goer will choose to wait for those days in December where the temperature preferable for spending the day at the beach.
+The “Surf and Shake” shop would see a decrease in the number of the local island beach goer customers and a decrease in the sales volume for ice cream and shakes purchased by this customer type in December due to the high number of days with unfavorable beach going temperatures. The local beach goer would choose something else to do on the days in December with unfavorable beach going temperatures and will choose to wait for the days in December where the temperature is preferable for spending the day at the beach.
 
-The “Surf and Shake” shop would also see a decrease in the number of the beach going tourist customer type and a decrease in sales volume for ice cream and shakes purchased by this customer type in December. Beach going tourists can choose when to come to Oahu for beach going. Due to the higher number days with temperature below the perferred beach going temperature, beach going tourist would choose to come during a time period where the occurance of days with tempertures below the perferred beach going temperature is significantly less than it is during the month of December. 
+The “Surf and Shake” shop would also see a decrease in the number of the tourist beach goer customers type and a decrease in sales volume for ice cream and shakes purchased by this customer type in December. Tourists beach goers can choose when to come to Oahu and would not choose to come in December, particularly at the end of the month, due to the high number of days with unfavorable beach going temperatures. Tourist beach goers would choose to come during other months of the year when the occurrence of days with unfavorable beach going temperatures are rare.  
 
-The “Surf and Shake” shop would not see a decrease in the number of the local surfer customer type and not see a decrease in sales volume of surfing equipment and supplies purchased by this customer in December.  Local surfer are motivated and prepared to surf year round and are more influenced by wave conditions than the temperature when making the choice to go surfing on a particular day. Generally, as long as wave conditions are favorable for surfing, local surfer will go surfing and will use wetsuits to stay warm on lower temperature days. Therefore, the fact that December has a higher number of low temperature outlier days does not negatively affect the frequency of days the local surfer customer type chooses to surf.
+The “Surf and Shake” shop would not see a decrease in the number of the local surfer customers and not see a decrease in sales volume of surfing equipment and supplies purchased by this customer type in December.  Local surfer are motivated and prepared to surf year round. There decision-making process to go surfing on a particular day is more influenced by wave conditions than the air temperature As long as wave conditions are favorable for surfing, local surfer will go surfing and will use wetsuits to stay warm on lower temperature days. The higher number outlier, low temperature days in December would not negatively the local surfing activity. 
 
-The “Surf and Shake” shop would see a decrease in the number of the surfing tourist customer type and a decrease in sales volume for surf equipment and supplies purchased buy this customer type in December. Like the tourist beach going customer type, the surfing tourist custoemr type can choose when to come to Oahu to surf and these customer types would prefer to some to surf during months when the there is very little likely hood of days with temperatures below 70 degrees.
+The “Surf and Shake” shop would see a decrease in the number of the tourist surfer customers and a decrease in sales volume for surf equipment and supplies purchased buy this customer type in December. The tourist surfer customer can choose when to come to Oahu to surf. Unlike local surfer customers, tourist surfer customers are influence by air temperatures. It is preferable to the tourist surfer customer to come to surf when low temperature day do not occur. They would avoid coming in December since it has a high number of outliers, low temperature days 
 
 
 ## Further Analysis
 
-### Hourly Temperatue Reading Per Day
+### analysis Using Hourly Temperature Reading Per Day
 
-Currently the temperature data set only has one temperature obervation per day per station and this temperture observation only had date information and does not time of day information. Typically surfing and beach going activity occurs between 9am and 4pm. Local and tourest beach goers, and tourest surfers make decision to choose to go to the beach based on the temperature at those times of the day. Having hourly temperature data would focus the analysis of the seasonal variation in temperatures to the this time period which had the most influence on beach goers' and surfers'decision to go to the beach.  
+Currently the temperature data set only has one temperature observations per day per station. In addition, this temperature observation only had date information. Typically surfing and beach going activity occurs between 9am and 4pm. Local and tourist beach goers, and tourist surfers make decision to choose to go to the beach based on the temperature at those times of the day. Having hourly temperature data would focus the analysis of the seasonal variation in temperatures to the time of day which that most influences beach goers' and surfers' decision to go to the beach.  
 
-In addition having hourly temperature observation would help to determine what time of day low temperature ourler values occur. This information would help to determine how relavent these temperature observation are to our analysis. As an example if the minimun temperature for December of 56 degrees occured a 6 AM, then this temperature would not be used in the analysis since temperatures between 9 AM and 4 PM are the most relavant in predicting the number of local beach goers, tourest beach goers, and tourest surfers that would go to the beach on that day.
+### Analysis of Seasonal Temperature Variations at the Station Level
 
-### Analized Sesonal Temperature Variations at the Station Level
+There may be significant differences in seasonal variation of temperatures at different part of Oahu. Weather on Oahu varies significantly due to the trade winds and their interaction with Oahu's mountains. The weather on Oahu's south and west shore is usually drier and sunnier than on the island's east shore. This is because the predominant trade winds are blowing from the northeast about 90% of the time they get stuck on the mountains. The weather on Oahu's east shore is therefore usually a lot wetter and colder than on the west shore. 
+Generating general information about the seasonal weather variation for the island may not be the right method to use to predict the effects of seasonal weather variation on the “Surf and Shake” shops business. This is due to the significant differences in weather patterns depending on what side to the Oahu's mountain the “Surf and Shake” shop may be located. 
+Analyzing seasonal weather variations at the station level would may show that the weather and seasonal variation of the weather on certain part of the island may have a significantly more favorable affect on the shops sales and the customer type the shop will attract. 
 
-There may be sigificant differences in seasonal variation of tempertures at different weather stations and at different beaches on the island of Oahu. Weather on Oahu varies significantly due to the trade winds and their interaction with Oahu's montains. The weather on Oahu's south and west shore is usually drier and sunnier than on the island's east shore. That's because the predominant tradewinds are blowing from the northeast about 90% of the time they get stuck on the mountains. The weather on Oahu's east shore is therefore usually a lot wetter and colder than on the west shore. Looking at seasonal weather variation for the island as a whole may not be the correct granularity for meaningful analysis of seasonal variation in weather due to the significant differences in weather patterns depending on what side to the Oahu's montain the the weather station is on. 
+### Seasonal Variation in Ocean Water temperature
 
-A specific location must be chosen for the "Surf and Shake" shop on the island of Oahu. The local seasonal weather variation may be significantly differend depending on which side of Oahu's montain the shop is located. Our current general analysis of the seasonal weather variation is based on the assumption the analysis is applicable to the entire island of Oahu. This may be a incorrect assumption and could lead to locating the shop in an area of the island whose seasonal weather variation differes significantly from the values our general analysis produces.
+Beach going is not just influence by air temperature. It is also influence by water temperature. Including data on the seasonal variation of water temperature would increase the accuracy of the predicted effects of seasonal weather variation on the sales volume and customer type for the “Surf and Shake” shop. Analysis of
 
-### Analized Seasonal Variation in Ocean Water temperature
+### Analysis of Seasonal Variations in Wave Conditions
 
-Beach going is not just influence by air temperature. It is also influence by water temperature. Adding data of the seasonal variation of water temperatures to our analysis ofthe seasonal variation in air temperature would make our predicions of the affect of seasonal variation on the sales volume and frequence of customer type more accurate.
-
-### Analizing Seasonal Variations on Wave Conditions
-
-The local sufer follow the waves with almost no consideration for the air temperature. Data on the seasonal varation in temperature is not significantly useful in predicting the sales volume of surfing equipment and supplies purchaes by the local surfer customer type and the frequency that the customer would come to the shop. Analizing the seasonal variation of wave conditions, would enable a much more accurate prediction of of the shoping behavior of the local surfer customer type. 
+The local surfer follows the waves. Data on the seasonal variation in wave conditions would be more useful in predicting the effects of seasonal weather variation on the sales of surfing equipment and supplies to the local surfer customer then data on the the seasonal variation of air temperatures/ 
