@@ -61,7 +61,7 @@ The “Surf and Shake” shop would see a decrease in the number of the tourist 
 
 ## Further Analysis
 
-### analysis Using Hourly Temperature Reading Per Day
+### Analysis Using Hourly Temperature Reading Per Day
 
 Currently the temperature data set only has one temperature observations per day per station. In addition, this temperature observation only had date information. Typically surfing and beach going activity occurs between 9am and 4pm. Local and tourist beach goers, and tourist surfers make decision to choose to go to the beach based on the temperature at those times of the day. Having hourly temperature data would focus the analysis of the seasonal variation in temperatures to the time of day which that most influences beach goers' and surfers' decision to go to the beach.  
 
