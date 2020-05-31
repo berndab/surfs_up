@@ -32,19 +32,19 @@ This seasonal temperature variation data is used to predict how sales volume and
 
 ## Analysis of Seasonal Weather Variations
 
-From the statistical temperature measure for June and December, there appears to be only a slight variance in the majority of the statistical temperature values. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference for June and December is 3 degrees. 75% of the temperatures for June are above 73 degrees while 75% of the temperatures for December are above 69 degrees. In the aggregate, the seasonal temperature variation from June and December temperature is expressed by a 3 degrees difference for the majority of the statistical weather measures.
+The comparison of statistical temperature measure for June and December, show only a slight variance in the majority of the statistical temperature measures. The mean temperature difference between June and December is 3.9 degrees. The maximum temperature difference between June and December is 3 degrees. 75% of the temperatures for June are 73 degrees and above while 75% of the temperatures for December are 69 degrees and above. For most statistical temperature measures, the seasonal temperature variation betwwen June and December temperature is expressed by a 3 degrees difference for these measures.
 
-However, the Bottom quartile daily temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference for June and December is 6 degrees which is twice the difference in the maximum temperature for June and December. In addition, the minimum temperature for December is 56 degrees is significantly lower than the preferred beach going temperature. Also, December has more outlier temperatures at the low end of the temperature scale and these additional outlier temperatures are below 60 degrees. This mean that December has more days with temperatures below the preferred beach going temperature. This increase in low temperature outlires is futher represented by the declining average temperature displayed on the December temperature chart during last week of December. This should be expected, since daily temperatures for the northern hemisphere reach their lowest values during this time frame.
+However, the bottom quartile of average daily temperatures data for June and December show a more significantly seasonal variation. The minimum temperature difference between June and December is 6 degrees which is twice the maximum temperature difference for these two months. In addition, December's minumun temperature of 56 degrees is significantly lower than the preferred beach going temperature value. Also, December has more outlier temperatures at the low end of the temperature scale that are below 60 degrees. Therefore, December has more days with temperatures below the preferred beach going temperature. Also the December average temperature graph show that the daily average temperature decreases significantly during the last week of December.
 
-The data shows that the major sesonal variation of temperature data for June and December occurs within the bottom quartile of daily temperatures for these months. December has on average has more days with marginal temperatures for beach going. 
+In summary, the temperature data shows that that the major sesonal temperature variation between June and December occurs within the bottom quartile of daily average temperatures value and is characterize by December having many more days with a daily average temperature below the perfered temperature for beach going.  
 
 ## Impact of Seasonal Weather Variation on the "Surf and Shake" Shop Business
 
 There are four types of customers that the "Surf and Shake" shack would attract
 * Local island beach goers who purchase ice cream and shakes
 * Local island surfers who purchase surfing equipment and supplies
-* Beach going tourist who purchase ice cream and shakes
-* Beach going surfers who purchase surfing equipment and supplies
+* Tourist beeach goers who purchase ice cream and shakes
+* Tourest surfers who purchase surfing equipment and supplies
 
 The “Surf and Shake” show would see a decrease in the number of the local island beach goer customer types and a decrease in the sales volume for ice cream and shakes purchased by this customer type in December. Due to the higher number of low temperature outliers in December, December has less days where the temperature is in the preferred temperature range of local beach goers. Local beach goer will choose to wait for those days where the temperature is not an outlier and preferable for spending a day at the beach.
 
@@ -58,6 +58,7 @@ The “Surf and Shake” shop would see a decrease in the in the number of the s
 ## Further Analysis
 
 ### Hourly Temperatue Reading Per Day
+
 Currently the temperature data set only has one temperature obervation per day per station and the temperture observation only had date information and not time of day information. Typically surfing and beach going activity occurs between 9am and 4pm. Local and tourest beach goers, and tourest surfers make decision to choose to go to the beach based on the temperature at those time of the day. Having hourly temperature date would enhance the ability to predict the affect of seasonal weather variation on the "Surf and Shake" shop sales and customer types. This would be particularly helpful when analizing the impact of low temperature ouliers in December on sales and customer type becasue time of day these lower temperatures occured would be known. It may be that the lowest temperature for December is 56 degrees but that temperature observation may have occured at 6am which would make it much less useful in predicting beach going and surfing activity. 
 
 ### Analized Sesonal Temperature Variations at the Station Level
@@ -69,7 +70,9 @@ on Oahu may be significantly different the the seasonal variation for each local
 Wave conditions
 
 ### Analized Seasonal Variation in Ocean Water temperature
+
 Beach going is not just influence by air temperature. It is also influence by water temperature. Included analysis of the seasonal variation of Oahu water tempertature would make our predicions of seasonal variation on the sales volume for ice cream and shakes from beach goer more accurate.
 
 ### Analizing Seasonal Variations on Wave Conditions
+
 The local sufer follow the waves with almost no consideration for the air temperature. Seasonal varation in temperature is not sifnificantly useful in predicting the sales volume of surfing equipment and supplies purchaes by the local surfer customer type. Analizing the seasonal variation of wave conditions, would enable a much more accurate prediction of the exprected demand for surfing equipment and supplies from the local surfing population.
