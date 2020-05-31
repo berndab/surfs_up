@@ -6,8 +6,9 @@ The purpose of this project is to determine how seasonal daily temperature varia
 
 ## Methodology
 
-The project uses the historical daily temperature observations from the 9 weather stations on the island of Oahu to determine the seasonal variation of the daily temperature on the island. The project performs a statistical analysis on the historical daily temperature observations for June and December the compares the statistical measures generated for these month to define the seasonal variation of the daily temperature on the island. 
-This seasonal temperature variation data is then used to predict how this seasonal variation would influence the "Surf and Shake" shop’s sales volume and the customer types that would frequent the shop
+The project uses the historical daily temperature observations from the 9 weather stations on the island of Oahu to determine the seasonal variation of the daily temperature on the island. The project performs a statistical analysis on the historical daily temperature observations for June and December the compares the statistical measures generated for these month to define the seasonal variation of the daily temperature on the island.
+
+This seasonal temperature variation data is then used to predict how this seasonal variation would influence the "Surf and Shake" shop’s sales volume and the customer type frequency.
 
 ## Weather Data June and December Oahu, Hawaii
 
@@ -67,7 +68,8 @@ Currently the temperature data set only has one temperature observations per day
 
 ### Analysis of Seasonal Temperature Variations at the Station Level
 
-There may be significant differences in seasonal variation of temperatures at different part of Oahu. Weather on Oahu varies significantly due to the trade winds and their interaction with Oahu's mountains. The weather on Oahu's south and west shore is usually drier and sunnier than on the island's east shore. This is because the predominant trade winds are blowing from the northeast about 90% of the time amd they get stuck on the mountains. The weather on Oahu's east shore is therefore usually a lot wetter and colder than on the west shore. 
+There may be significant differences in seasonal variation of temperatures at different part of Oahu. Weather on Oahu varies significantly due to the trade winds and their interaction with Oahu's mountains. The weather on Oahu's south and west shore is usually drier and sunnier than on the island's east shore. This is because the predominant trade winds are blowing from the northeast about 90% of the time amd they get stuck on the mountains. The weather on Oahu's east shore is therefore usually a lot wetter and colder than on the west shore.
+
 Generating general information about the seasonal weather variation for the island may not be the right method to use to predict the effects of seasonal weather variation on the “Surf and Shake” shops business. This is due to the significant differences in weather patterns depending on what side to the Oahu's mountain the “Surf and Shake” shop may be located. 
 Analyzing seasonal weather variations at the station level would may show that the weather and seasonal variation of the weather on certain part of the island may have a significantly more favorable affect on the shops sales and the customer type the shop will attract. 
 
@@ -77,4 +79,4 @@ Beach going is not just influence by air temperature. It is also influence by wa
 
 ### Analysis of Seasonal Variations in Wave Conditions
 
-The local surfer follows the waves. Data on the seasonal variation in wave conditions would be more useful in predicting the effects of seasonal weather variation on the sales of surfing equipment and supplies to the local surfer customer then data on the the seasonal variation of air temperatures/ 
+The local surfer follows the waves. Data on the seasonal variation in wave conditions would be more useful in predicting the effects of seasonal weather variation on the sales of surfing equipment and supplies to the local surfer customer then data on the the seasonal variation of air temperatures.
